@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Marco S. G. Senaldi, Ph.D."
 title_separator          : "-"
 name                     : &name "Marco S. G. Senaldi"
-description              : &description "personal description"
+description              : &description "Postdoctoral Researcher, McGill University"
 url                      : https://marcosenaldi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "marcosenaldi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marco S. G. Senaldi"
+  name             : "Marco S. G. Senaldi, Ph.D."
   avatar           : "profile.png"
   bio              : "Postdoctoral Researcher"
   location         : "Montréal, Canada"
   employer         :  "McGill University"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=oBBvLU4AAAAJ&hl=en"
   email            : "marco.senaldi@mcgill.ca"
-  researchgate     :  
+  researchgate     :  "https://www.researchgate.net/profile/Marco-Senaldi"
   uri              :
   bitbucket        :
   codepen          :
