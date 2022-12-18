@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marco S. G. Senaldi, Ph.D."
 title_separator          : "-"
 name                     : &name "Marco S. G. Senaldi"
-description              : &description "Postdoctoral Researcher, McGill University"
+description              : &description "Postdoctoral Researcher at McGill University"
 url                      : https://marcosenaldi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marcosenaldi.github.io"
@@ -84,7 +84,7 @@ author:
   avatar           : "IMG-20220604-WA0035.jpg"
   bio              : "Postdoctoral Researcher"
   location         : "Montréal, Canada"
-  employer         :  "McGill University"
+  employer         :  
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oBBvLU4AAAAJ&hl=en"
   email            : "marco.senaldi@mcgill.ca"
