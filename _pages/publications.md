@@ -10,7 +10,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ### 2022
 
-* **M. S. G. Senaldi** and D. A. Titone (2022). [Less direct, more analytical: Eye movement
+* **M. S. G. Senaldi** and D. A. Titone (2022). [Less direct, more analytical: Eye-movement
 measures of L2 idiom reading](https://doi.org/10.3390/languages7020091). *Languages 7*, paper 91. 
 * **M. S. G. Senaldi**, J. Wei, J.W. Gullifer, and D. A. Titone (2022). [Scratching your
 tête over language-switched idioms: Evidence from eye-movement measures of
