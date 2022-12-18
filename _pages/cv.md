@@ -8,6 +8,7 @@ redirect_from:
 
 ---
 
-<embed src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/files/Senaldi_CV_Nov2022.pdf" width="600" height="700" type='application/pdf'/>
+<embed src="https://marcosenaldi.github.io/files/Senaldi_CV_Nov2022.pdf" type="application/pdf" width="600px" height="500px" />
+
 
 
