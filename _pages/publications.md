@@ -10,7 +10,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ### 2022
 
-* **M. S. G. Senaldi** and D. A. Titone (2022). [Less direct, more analytical: Eyemovement
+* **M. S. G. Senaldi** and D. A. Titone (2022). [Less direct, more analytical: Eye movement
 measures of L2 idiom reading](https://doi.org/10.3390/languages7020091). *Languages 7*, paper 91. 
 * **M. S. G. Senaldi**, J. Wei, J.W. Gullifer, and D. A. Titone (2022). [Scratching your
 tête over language-switched idioms: Evidence from eye-movement measures of
@@ -38,7 +38,7 @@ for Computation in Linguistics (SCiL)*. New York City, NY, USA, pp. 310–313
 
 ### 2018
 
-* Y. Bizzoni, **M. S. G. Senaldi**, and A. Lenci (2018). [Finding the Neural Net: Deeplearning
+* Y. Bizzoni, **M. S. G. Senaldi**, and A. Lenci (2018). [Finding the Neural Net: Deep-learning
 Idiom Type Identification from Distributional Vectors](https://journals.openedition.org/ijcol/535). *Italian Journal of
 Computational Linguistics 4.1*, pp. 27–41
 
