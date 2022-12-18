@@ -19,9 +19,14 @@ Previous evidence from our lab ([Libben & Titone 2008](https://doi.org/10.3758/M
   <img width="600" height="264" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/hybrid.png?raw=true">
 </p>
 
-In an eye-tracking study published on <i>Memory & Cognition</i> ([Senaldi, Wei, Gullifer & Titone, 2022](https://doi.org/10.3758/s13421-022-01334-x)), my colleagues and I found that English L1-French L2 bilinguals were slower at reading idioms containing a momentary language switched as compared to matched literal controls. This evidence offers additional support to the importance of direct retrieval in L1 idiom recognition.
+In an eye-tracking study published on <i>Memory & Cognition</i> ([Senaldi, Wei, Gullifer & Titone, 2022](https://doi.org/10.3758/s13421-022-01334-x)), my colleagues and I found that English L1-French L2 bilinguals were slower at reading idioms containing a momentary language switched as compared to matched literal controls. These data provided additional support to the role of direct retrieval in L1 idiom recognition.
 
 <p align="center">
-  <img width="800" height="322" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/switch.png?raw=true">
+  <img width="600" height="241" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/switch.png?raw=true">
 </p>
 
+In a follow-up study appeared on *Languages* ([Senaldi & Titone, 2022](https://doi.org/10.3390/languages7020091)), we observed that L2 readers adopt a more compositional strategy, with L2 idioms being easier to process if the meaning of single idiom components is better related to the figurative meaning of the phrase.
+
+<p align="center">
+  <img width="700" height="300" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/L2_decomp.png?raw=true">
+</p>
