@@ -13,9 +13,10 @@ author_profile: true
   <img width="772" height="339" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/mwe.png?raw=true">
 </p>
 
-<p align="justify"> Evidence collected in our lab supports a <b>hybrid model of idiom processing</b>, where idioms are both directly retrieved from memory and compositionally analyzed over different time courses during processing. </p>
+<p align="justify"> Previous evidence from our lab ([Libben & Titone 2008](https://doi.org/10.3758/MC.36.6.1103); [Titone et al. 2019]( https://doi.org/10.1037/cep0000175)) supports a <b>hybrid model of idiom processing</b>, where idioms are both directly retrieved from memory and compositionally analyzed over different time courses during processing. </p>
 
 <p align="center">
   <img width="600" height="264" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/hybrid.png?raw=true">
 </p>
 
+<p align="justify">In a contribution appeared on <i>Memory & Cognition</i> ([Senaldi, Wei, Gullifer & Titone, 2022](https://doi.org/10.3758/s13421-022-01334-x)), my colleagues and I have used eye-tracking during silent reading to assess how English L1-French L2 bilinguals from Montreal </p>
