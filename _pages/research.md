@@ -16,7 +16,7 @@ author_profile: true
 Previous evidence from our lab ([Libben & Titone 2008](https://doi.org/10.3758/MC.36.6.1103); [Titone et al. 2019]( https://doi.org/10.1037/cep0000175)) supports a <b>hybrid model of idiom processing</b>, where idioms are both directly retrieved from memory and compositionally analyzed over different time courses during processing.
 
 <p align="center">
-  <img width="600" height="264" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/hybrid.png?raw=true">
+  <img width="550" height="239" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/hybrid.png?raw=true">
 </p>
 
 In an eye-tracking study published on <i>Memory & Cognition</i> ([Senaldi, Wei, Gullifer & Titone, 2022](https://doi.org/10.3758/s13421-022-01334-x)), my colleagues and I found that English L1-French L2 bilinguals were slower at reading idioms containing a momentary language switched as compared to matched literal controls. These data provided additional support to the role of direct retrieval in L1 idiom recognition.
