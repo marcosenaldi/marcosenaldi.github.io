@@ -48,3 +48,8 @@ In a contribution for the *Canadian Journal of Experimental Psychology* ([Senald
 <p align="center">
   <img width="700" height="300" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/cjep.png?raw=true">
 </p>
+
+
+### Experiential and environmental effects on language behavior
+
+In an ongoing project funded by the Social Sciences and Humanities Research Council of Canada (SSHRC), for which I serve as the Principal Investigator, I am analyzing how the varying impact of large-scale real-world events (e.g., the COVID-19 pandemic, natural disasters) over time and across different contexts is reflected in the emergence of new language patterns on social media and news sources. On the behavioral side, I am using a battery of online tasks and questionnaires to understand how speakers process the language describing such events differently based on the impact of such events on their environment, and their social and linguistic background. In addition to validating usage-based language models through real-world case studies, this project will reveal how linguistic data can provide time- and place-accurate information on how societies around the globe are impacted by collectively experienced events.
