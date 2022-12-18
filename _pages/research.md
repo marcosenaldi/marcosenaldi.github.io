@@ -25,8 +25,12 @@ In an eye-tracking study published on <i>Memory & Cognition</i> ([Senaldi, Wei, 
   <img width="600" height="241" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/switch.png?raw=true">
 </p>
 
-In a follow-up study appeared on *Languages* ([Senaldi & Titone, 2022](https://doi.org/10.3390/languages7020091)), we observed that L2 readers adopt a more compositional strategy, with L2 idioms being easier to process if the meaning of single idiom components is better related to the figurative meaning of the phrase.
+In a follow-up study appeared on *Languages* ([Senaldi & Titone, 2022](https://doi.org/10.3390/languages7020091)), we observed that L2 readers adopt a more compositional strategy, with L2 idioms being easier to process if the meaning of the single idiom components is more suggestive of the overall figurative meaning.
 
 <p align="center">
   <img width="700" height="300" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/L2_decomp.png?raw=true">
 </p>
+<p align="center">
+  <img width="500" height="124" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/stim.png?raw=true">
+</p>
+
