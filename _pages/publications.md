@@ -75,10 +75,10 @@ Investigating Idiomaticity with Distributional Semantic Models](https://aclantho
 ### 2015
 
 * G. E. Lebani, **M. S. G. Senaldi**, and A. Lenci (2015). [Modeling Idiom Variability
-with Entropy and Distributional Semantics](url). Proceedings of the 6th Conference on
-Quantitative Investigations in Theoretical Linguistics (QITL 6). Tübingen, Germany
-* A. Lenci, G. E. Lebani, M. S. G. Senaldi, S. Castagnoli, F. Masini, and M. Nissim
-(2015). “Mapping the Constructicon with SYMPAThy. ItalianWord Combinations
-between fixedness and productivity”. Proceedings of the NetWordS Final Conference
+with Entropy and Distributional Semantics](https://colinglab.fileli.unipi.it/wp-content/uploads/2016/01/Lebani_Senaldi_Lenci.pdf). *Proceedings of the 6th Conference on
+Quantitative Investigations in Theoretical Linguistics (QITL 6)*. Tübingen, Germany
+* A. Lenci, G. E. Lebani, **M. S. G. Senaldi**, S. Castagnoli, F. Masini, and M. Nissim
+(2015). [Mapping the Constructicon with SYMPAThy. Italian Word Combinations
+between fixedness and productivity](https://colinglab.fileli.unipi.it/wp-content/uploads/2015/04/lenci-et-al-networds2015.pdf). *Proceedings of the NetWordS Final Conference
 on Word Knowledge and Word Usage: Representations and Processes in the Mental
-Lexicon. Pisa, Italy, pp. 144–149
+Lexicon*. Pisa, Italy, pp. 144–149
