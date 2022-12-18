@@ -13,8 +13,9 @@ author_profile: true
   <img width="772" height="339" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/mwe.png?raw=true">
 </p>
 
-Evidence collected in our lab supports a <b>hybrid model of idiom processing</b>, where idioms are both directly retrieved from memory and compositionally analyzed over different time courses during processing. 
+<p align="justify"> Evidence collected in our lab supports a <b>hybrid model of idiom processing</b>, where idioms are both directly retrieved from memory and compositionally analyzed over different time courses during processing. </p>
 
 <p align="center">
-  <img width="650" height="286" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/hybrid.png?raw=true">
+  <img width="600" height="264" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/hybrid.png?raw=true">
 </p>
+
