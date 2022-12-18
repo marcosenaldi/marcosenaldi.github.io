@@ -19,4 +19,9 @@ Previous evidence from our lab ([Libben & Titone 2008](https://doi.org/10.3758/M
   <img width="600" height="264" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/hybrid.png?raw=true">
 </p>
 
-In a contribution appeared on <i>Memory & Cognition</i> ([Senaldi, Wei, Gullifer & Titone, 2022](https://doi.org/10.3758/s13421-022-01334-x)), my colleagues and I found additional support of the role of direct retrieval in L1 idiom processing. Here, we used eye-tracking during silent reading to assess how English L1-French L2 bilinguals from Montreal understand idioms appearing in their intact form (e.g., *spill the beans*) or with their final noun switched to French (e.g., *spill the fèves*). Crucially, switched idioms took longer to read than switched literal controls, indicating a failed attempt at direct retrieval.
+In an eye-tracking study published on <i>Memory & Cognition</i> ([Senaldi, Wei, Gullifer & Titone, 2022](https://doi.org/10.3758/s13421-022-01334-x)), my colleagues and I found that English L1-French L2 bilinguals were slower at reading idioms containing a momentary language switched as compared to matched literal controls. This evidence offers additional support to the importance of direct retrieval in L1 idiom recognition.
+
+<p align="center">
+  <img width="800" height="322" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/switch.png?raw=true">
+</p>
+
