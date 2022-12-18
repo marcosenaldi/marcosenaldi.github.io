@@ -34,3 +34,8 @@ In a follow-up study appeared on *Languages* ([Senaldi & Titone, 2022](https://d
   <img width="500" height="124" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/stim.png?raw=true">
 </p>
 
+
+### Contextual diversity as a lexical organizer of multiword units
+
+In a contribution for the *Canadian Journal of Experimental Psychology* ([Senaldi, Titone & Johns, 2022](https://doi.org/10.1037/cep0000271)), we demonstrated how the combination of computational and behavioral measures of idioms' lexical strength can provide us with insight on the general functioning of the mental lexicon. In this study, idiom familiarity ratings turned out to be better predicted by contextual diversity measures encoding the communication patterns of Reddit users across different discourse topics (e.g., subreddits), as compared to frequency. While frequency is based on a **principle of repetition**, contextual diversity encodes a **principle of likely need**, whereby phrases that are encountered across more diverse contexts are deemed as likelier to occur in future contexts, and become thus more readily accessible from memory. These results mirror previous findings for single words ([Johns, 2021](http://btjohns.com/pubs/J_PR_inpress.pdf)) and suggest likely need as the cognitive principle driving the lexical organization of single words and multiword strings alike.
+
