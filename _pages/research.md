@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-
+<p align="justify"> My research agenda involves the integration of <b>computational</b> and <b>psycholinguistic</b> approaches to shed light on <b>how our exposure to the surrounding linguistic environment shapes our language behavior</b>. I use a wide range of approaches, including <b>eye-tracking during reading</b>, <b>distributional semantic models</b>, <b>corpus-based models of lexical strength</b>, <b>lexical decision latencies</b> and <b>other corpus-based and behavioral techniques</b>. </p>
 
 
 ### Representation and processing of multiword and idiomatic language
@@ -14,7 +14,7 @@ author_profile: true
   <img width="650" height="343" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/mwe_new.png?raw=true">
 </p>
 
-<p align="justify"> My research agenda involves the integration of computational and psycholinguistic approaches to shed light on how our exposure to the surrounding linguistic environment shapes our language behavior. Specifically, most part of my research has focused on the representation and processing of <b> multiword and idiomatic language</b>. The increasing availability of corpora over the past decades has made it clear that most of our linguistic production involves fixed and recurrent multiword units like idioms, whose meaning often goes beyond the sum of their parts (e.g. <i>break the ice</i>, <i>spill the beans</i>, etc.). In this regard, understanding how they are represented and processed can give us insights about the general structure of the mental lexicon. </p>
+<p align="justify">My research has especially focused on the representation and processing of <b> multiword and idiomatic language</b>. The increasing availability of corpora over the past decades has made it clear that most of our linguistic production involves fixed and recurrent multiword units like idioms, whose meaning often goes beyond the sum of their parts (e.g. <i>break the ice</i>, <i>spill the beans</i>, etc.). In this regard, understanding how they are represented and processed can give us insights about the general structure of the mental lexicon. </p>
 
 Previous evidence from our lab ([Libben & Titone 2008](https://doi.org/10.3758/MC.36.6.1103); [Titone et al. 2019]( https://doi.org/10.1037/cep0000175)) supports a <b>hybrid model of idiom processing</b>, where idioms are both directly retrieved from memory and compositionally analyzed over different time courses during processing.
 
