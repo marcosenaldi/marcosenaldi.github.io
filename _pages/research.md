@@ -66,4 +66,8 @@ Of note, participants from both studies were faster at reading idioms that posse
 ### Distributional semantic approaches to semantic compositionality and semantic change
 
 
-<p align="justify">In past work, I investigated issues related to semantic compositionality and semantic change through the application of <b>vector-based distributional semantic models</b>. Distributional models represent words and phrases as vectors encoding their co-occurrence statistics in corpora (<a href="https://doi.org/10.1146/annurev-linguistics030514-125254">Lenci, 2018</a>). </p>
+<p align="justify">In past work, I investigated issues related to semantic compositionality and semantic change through the application of <b>vector-based distributional semantic models</b>. Distributional models represent words and phrases as vectors encoding their co-occurrence statistics in corpora (<a href="https://doi.org/10.1146/annurev-linguistics030514-125254">Lenci, 2018</a>). In a chapter of my doctoral dissertation, I proposed a vector-based index of semantic compositionality and idiomaticity that assesses the idiomatic/non-idiomatic status of a target phrase by measuring its cosine similarity with lexical variants obtained from the same phrase (<a href="https://colinglab.fileli.unipi.it/wp-content/uploads/2012/12/senaldi_etal_CLIC2016.pdf">Senaldi et al., 2016</a>; <a href="https://journals.openedition.org/ijcol/429">2017</a>). In a side project, my colleagues and I explored the potential of distributional semantic models to track diachronic semantic change in the lexicon of Ancient Greek (<a href="https://journals.openedition.org/ijcol/421">Rodda et al., 2017</a>).</p>
+
+<p align="center">
+  <img width="380" height="380" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/greek.png?raw=true">
+</p>
