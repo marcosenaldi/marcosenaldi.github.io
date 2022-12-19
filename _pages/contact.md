@@ -17,7 +17,7 @@ H3A 1G1  <br />
 
  
 *e-mail address:* <br />
-marco.senaldi@mcgill.ca
+marco.senaldi [at] mcgill.ca 
 
  <br />
 
