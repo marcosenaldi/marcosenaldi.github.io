@@ -22,7 +22,7 @@ Previous evidence from our lab ([Libben & Titone 2008](https://doi.org/10.3758/M
   <img width="550" height="239" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/hybrid.png?raw=true">
 </p>
 
-In an eye-tracking study published on <i>Memory & Cognition</i> ([Senaldi, Wei, Gullifer & Titone, 2022](https://doi.org/10.3758/s13421-022-01334-x)), my colleagues and I found that English L1-French L2 bilinguals were slower at reading idioms containing a momentary language switched as compared to matched literal controls. These data provided additional support to the role of direct retrieval in L1 idiom recognition.
+In an eye-tracking study published on <i>Memory & Cognition</i> ([Senaldi, Wei, Gullifer & Titone, 2022](https://doi.org/10.3758/s13421-022-01334-x)), my colleagues and I found that English L1-French L2 bilinguals were slower at reading idioms containing a momentary language switch as compared to switched literal controls. These data provided additional support to the role of direct retrieval in L1 idiom recognition.
 
 <p align="center">
   <img width="600" height="241" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/switch.png?raw=true">
@@ -37,8 +37,9 @@ In a follow-up study appeared on *Languages* ([Senaldi & Titone, 2022](https://d
   <img width="500" height="124" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/stim.png?raw=true">
 </p>
 
+Of note, participants from both studies were faster at reading idioms that possessed a translational equivalent in their other language (e.g., English *break the ice* – French *briser la glace*), suggesting the intriguing possibility that the bilingual lexicon might also be integrated beyond the level of single words.
 
-
+<br />
 
 
 ### Contextual diversity as a lexical organizer of multiword units
@@ -49,7 +50,9 @@ In a contribution for the *Canadian Journal of Experimental Psychology* ([Senald
   <img width="700" height="300" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/cjep.png?raw=true">
 </p>
 
+<br />
+
 
 ### Experiential and environmental effects on language behavior
 
-In an ongoing project funded by the Social Sciences and Humanities Research Council of Canada (SSHRC), for which I serve as the Principal Investigator, I am analyzing how the varying impact of large-scale real-world events (e.g., the COVID-19 pandemic, natural disasters) over time and across different contexts is reflected in the emergence of new language patterns on social media and news sources. On the behavioral side, I am using a battery of online tasks and questionnaires to understand how speakers process the language describing such events differently based on the impact of such events on their environment, and their social and linguistic background. In addition to validating usage-based language models through real-world case studies, this project will reveal how linguistic data can provide time- and place-accurate information on how societies around the globe are impacted by collectively experienced events.
+<p align="justify"> In an ongoing project funded by the Social Sciences and Humanities Research Council of Canada (SSHRC), for which I serve as the Principal Investigator, I am analyzing how the varying impact of large-scale real-world events (e.g., the COVID-19 pandemic, natural disasters) over time and across different contexts is reflected in the emergence of new language patterns on social media and news sources. On the behavioral side, I am using a battery of online tasks and questionnaires to understand how speakers process the language describing such events differently based on the impact of such events on their environment, and their social and linguistic background. In addition to validating usage-based language models through real-world case studies, this project will reveal how linguistic data can provide time- and place-accurate information on how societies around the globe are impacted by collectively experienced events. </p>
