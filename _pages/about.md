@@ -16,4 +16,6 @@ redirect_from:
 
 <p align="justify">You can learn more about my work by looking at the <a href="https://marcosenaldi.github.io/research/">Research</a> and <a href="https://marcosenaldi.github.io/publications/">Publications</a> pages.</p>
 
+<br>
+
 <p align="center"> <img width="225" height="300" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/menlex.jfif?raw=true"> <img width="400" height="300" src="https://github.com/marcosenaldi/marcosenaldi.github.io/blob/master/images/labmates.jfif?raw=true"> </p>
