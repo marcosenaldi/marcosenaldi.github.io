@@ -42,7 +42,7 @@ Of note, participants from both studies were faster at reading idioms that posse
 <br >
 
 
-### Contextual diversity as a lexical organizer of multiword units
+<b>Contextual diversity as a lexical organizer of multiword units</b>
 
 <p align="justify">The availability of <b>text corpora</b> has granted us immediate access to <b>Big Data</b> repositories of natural language use. From these, we can extract information on people’s linguistic behavior thanks to state-of-the-art computational language models. In a contribution for the <i>Canadian Journal of Experimental Psychology</i> (<a href="https://doi.org/10.1037/cep0000271">Senaldi, Titone & Johns, 2022</a>), we demonstrated how the analysis of corpus-based computational measures of idioms' lexical strength can provide us with insight on the general functioning of the mental lexicon. In this study, idiom familiarity ratings turned out to be better predicted by contextual diversity measures encoding the communication patterns of Reddit users across different discourse topics (e.g., subreddits), as compared to frequency. While frequency is based on a <b>principle of repetition</b>, contextual diversity encodes a <b>principle of likely need</b>, adapted from the rational analysis of memory (<a href="https://doi.org/10.1016/0010-0285(74)90021-8">Anderson, 1974</a>), whereby phrases that are encountered across more diverse contexts are deemed as likelier to occur in future contexts, and become thus more readily accessible from memory. These results mirror previous findings for single words (<a href="https://doi.org/10.1037/a0026727">Jones et al., 2012, <a href="http://btjohns.com/pubs/J_PR_inpress.pdf">Johns, 2021</a>) and suggest likely need as the cognitive principle driving the lexical organization of single words and multiword strings alike.</p>
 
@@ -52,13 +52,13 @@ Of note, participants from both studies were faster at reading idioms that posse
 
 <br >
 
-### Experiential and environmental effects on language behavior
+<b>Experiential and environmental effects on language behavior</b>
 
 <p align="justify"> In an ongoing project funded by the <a href="https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx">Social Sciences and Humanities Research Council of Canada (SSHRC)</a>, for which I serve as the Principal Investigator (co-PIs: Debra Titone, Brendan Johns), I am analyzing how the varying impact of large-scale real-world events (e.g., the COVID-19 pandemic, natural disasters, social movements) over time and across different contexts is reflected in the emergence of new language patterns on social media and news sources. On the behavioral side, I am using a battery of online tasks and questionnaires to understand how speakers process the language describing such events differently based on the impact of such events on their environment, and their social and linguistic background. In addition to validating usage-based language models through real-world case studies, this project will reveal how linguistic data can provide time- and place-accurate information on how societies around the globe are impacted by collectively experienced events. </p>
 
 <br>
 
-### Distributional semantic approaches to semantic compositionality and semantic change
+<b>Distributional semantic approaches to semantic compositionality and semantic change</b>
 
 
 <p align="justify">In past work, I investigated issues related to semantic compositionality and semantic change through the application of <b>vector-based distributional semantic models</b>. Distributional models represent words and phrases as vectors encoding their co-occurrence statistics in corpora (<a href="https://doi.org/10.1146/annurev-linguistics030514-125254">Lenci, 2018</a>). </p>
