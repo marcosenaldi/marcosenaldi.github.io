@@ -1,15 +1,15 @@
 # main links links
 main:
 
-  - title: "CV"
+  - title: "<b><u>CV</u></b>"
     url: /cv/ 
 
-  - title: "Research"
+  - title: "<b><u>Research</u></b>"
     url: /research/
 
-  - title: "Publications"
+  - title: "<b><u>Publications</u></b>"
     url: /publications/    
         
-  - title: "Contact"
+  - title: "<b><u>Contact</u></b>"
     url: /contact/
 
