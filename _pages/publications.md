@@ -7,6 +7,11 @@ author_profile: true
 
 You can also find my papers on [my Google Scholar profile](https://scholar.google.com/citations?user=oBBvLU4AAAAJ&hl=en).
 
+### 2023
+
+* G. Rambelli, E. Chersoni, **M. S. G. Senaldi**, P. Blache, and A. Lenci (2023). [Are Frequent Phrases Directly Retrieved like Idioms?
+An Investigation with Self-paced Reading and Language Models](https://aclanthology.org/2023.mwe-1.13.pdf).
+*Proceedings of the 19th Workshop on Multiword Expressions (MWE 2023)*, pp. 87-98. **Best Paper Award**
 
 ### 2022
 
