@@ -7,6 +7,14 @@ author_profile: true
 
 You can also find my papers on [my Google Scholar profile](https://scholar.google.com/citations?user=oBBvLU4AAAAJ&hl=en).
 
+## Scientific Communications
+
+### 2022
+
+* [When in doubt, keep it Gaussian.](https://featuredcontent.psychonomic.org/when-in-doubt-keep-it-gaussian/) *Psychonomic Society Featured Content*.
+
+## Papers
+
 ### 2023
 
 * G. Rambelli, E. Chersoni, **M. S. G. Senaldi**, P. Blache, and A. Lenci (2023). [Are Frequent Phrases Directly Retrieved like Idioms?
