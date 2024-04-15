@@ -15,6 +15,10 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 ## Papers
 
+### 2024
+
+* **M. S. G. Senaldi** and D. A. Titone (2024). [Idiom meaning selection following a prior context: eye movement evidence of L1 direct retrieval and L2 compositional assembly](https://doi.org/10.1080/0163853X.2024.2311637). *Discourse Processes 61*, pp. 21-43.
+
 ### 2023
 
 * G. Rambelli, E. Chersoni, **M. S. G. Senaldi**, P. Blache, and A. Lenci (2023). [Are Frequent Phrases Directly Retrieved like Idioms?
